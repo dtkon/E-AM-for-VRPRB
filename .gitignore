@@ -1,0 +1,20 @@
+# local file
+local_only
+datasets
+log
+
+# NN trained model
+saved_*
+
+# cache
+__pycache__
+.mypy_cache
+.ipynb_checkpoints
+sync.ffs_db
+
+# IDE config
+.vscode
+mypy.ini
+
+# venv
+.venv
