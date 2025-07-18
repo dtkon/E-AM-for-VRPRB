@@ -1,4 +1,4 @@
-# PDP-NCS
+# E-AM-for-VRPRB
 
 This repo implements our paper: Deep Reinforcement Learning for the Vehicle Routing Problem with Route Balancing
 
